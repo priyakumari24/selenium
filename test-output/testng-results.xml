@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111" started-at="2017-11-05T03:48:27Z" finished-at="2017-11-05T03:48:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111" started-at="2017-11-05T03:48:27Z" finished-at="2017-11-05T03:48:27Z">
+      <class name="com.k2js.excellearning.practice.ExcelReadWrite">
+        <test-method status="PASS" signature="verifyRegistrationProcess([Ljava.lang.String;)[pri:0, instance:com.k2js.excellearning.practice.ExcelReadWrite@7e0b85f9]" name="verifyRegistrationProcess" duration-ms="32" started-at="2017-11-05T09:18:27Z" data-provider="abcd" finished-at="2017-11-05T09:18:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3349e9bb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationProcess -->
+        <test-method status="PASS" signature="verifyRegistrationProcess([Ljava.lang.String;)[pri:0, instance:com.k2js.excellearning.practice.ExcelReadWrite@7e0b85f9]" name="verifyRegistrationProcess" duration-ms="0" started-at="2017-11-05T09:18:27Z" data-provider="abcd" finished-at="2017-11-05T09:18:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@409bf450]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationProcess -->
+      </class> <!-- com.k2js.excellearning.practice.ExcelReadWrite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
